@@ -1,0 +1,9 @@
+﻿gse,case_regex,control_regex,paired_by,note
+GSE100927,atherosclerotic,control,,琛€绠′晶鍙戠幇闆嗭細澶栧懆鍔ㄨ剦锛堥/鑲?鑶濅笅锛夛紝鏂戝潡 vs 瀵圭収
+GSE43292,atheroma plaque,macroscopically intact,patient,琛€绠′晶閲嶅闆嗭細棰堝姩鑴夋枒鍧?vs 鍚屼竴鎮ｈ€呰倝鐪兼甯稿唴鑶滐紙閰嶅锛?GSE28829,advanced,early,,鏂戝潡杩涘睍锛氳繘灞曟湡 vs 鏃╂湡
+GSE56815,low bmd,high bmd,,楠ㄤ晶鍙戠幇闆嗭細鍗曟牳缁嗚優锛屼綆 BMD vs 楂?BMD
+GSE7158,low pbm,high pbm,,楠ㄤ晶澶栭儴楠岃瘉锛氭瀬浣?vs 鏋侀珮宄板€奸閲?GSE56814,low bmd,high bmd,,楠ㄤ晶鍚岄槦鍒楁崲骞冲彴锛圚uEx锛?GSE37558,cvc,osteoblast,,閽欏寲琛€绠＄粏鑳烇紙CVC锛塿s 鎴愰缁嗚優
+GSE35956,osteopo,hmsc-c,,楠ㄧ粍缁囨潵婧愶細楠ㄨ川鐤忔澗 hMSC vs 瀵圭収 hMSC
+GSE7429,lowbmd,highbmd,,楠ㄤ晶鍏嶇柅浜氱兢锛欱 缁嗚優锛屼綆 vs 楂?BMD
+GSE13850,low bmd,high bmd,,楠ㄤ晶鍏嶇柅浜氱兢锛欱 缁嗚優锛堝惛鐑熺浉鍏筹級锛屼綆 vs 楂?BMD
+

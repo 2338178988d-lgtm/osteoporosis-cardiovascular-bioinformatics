@@ -1,0 +1,15 @@
+﻿gse,species,design,role,source_note
+GSE100927,human,atherosclerotic vs control peripheral artery (carotid/femoral/infra-popliteal),vascular-discovery,
+GSE43292,human,carotid atheroma vs macroscopically intact intima (paired per patient),vascular-replication,
+GSE28829,human,advanced vs early carotid plaque,vascular-progression,
+GSE56815,human,circulating monocytes low vs high hip BMD,bone-discovery,
+GSE56814,human,same cohort on HuEx-1_0-st,bone-platform-replication,
+GSE7158,human,circulating monocytes extremely low vs high peak bone mass,bone-validation,
+GSE35956,human,femoral-head hMSC primary osteoporosis vs age-matched,bone-tissue,
+GSE7429,human,circulating B cells low vs high BMD,bone-immune,
+GSE13850,human,circulating B cells low vs high BMD (smokers),bone-immune,
+GSE37558,human,calcifying vascular cells (CVC) vs osteoblasts,mechanism-shared-programme,
+GSE11917,human,coronary SMC calcification time course (media/dex/AA/BGP +/- vitD),mechanism-mineral-axis,
+GSE80614,human,hMSC osteogenic vs adipogenic differentiation time course,mechanism-osteoblast-programme,
+GSE51495,baboon (Papio),PBMC vs cortical bone from the same animals,blood-bone-bridge-cross-species,
+
